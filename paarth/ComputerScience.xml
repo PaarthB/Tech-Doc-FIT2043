@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="staffdir.xsl"?>
+
+<staffdir org="Computer Science">
+<person>
+	<title>Dr</title>
+	<personalname>Julian</personalname>
+	<familyname>Garcia</familyname>
+	<extension>x24043</extension>
+	<image>http://monash.edu/research/explore/files/8180016/f11619_1_.jpg</image>
+	<unit>FIT1008 Introduction to Computer Science</unit>
+</person>
+
+<person>
+	<title>Dr</title>
+	<personalname>Kerri</personalname>
+	<familyname>Morgan</familyname>
+	<extension>x59559</extension>
+	<image>http://monash.edu/research/explore/files/8082326/f9425.jpg</image>
+	<unit>FIT1045 Algorithms and Programming Fundamentals</unit>
+</person>
+
+<person>
+	<title>Dr</title>
+	<personalname>Arun</personalname>
+	<familyname>Konagurthu</familyname>
+	<extension>x53227</extension>
+	<image>http://monash.edu/research/explore/files/851560/profile%20photo</image>
+	<unit>FIT2004 Algorithms and Data Structures</unit>
+	<unit>FIT3139 Computational Science</unit>
+</person>
+
+<person>
+	<title>Professor</title>
+	<personalname>Graham</personalname>
+	<familyname>Farr</familyname>
+	<extension>x55201</extension>
+	<image>http://monash.edu/research/explore/files/713681/profile%20photo</image>
+	<unit>FIT2014 Theory of Computation</unit>
+</person>
+
+<person>
+	<title>Professor</title>
+	<personalname>Ingrid</personalname>
+	<familyname>Zukerman</familyname>
+	<extension>x55202</extension>
+	<image>http://monash.edu/research/explore/files/722573/profile%20photo</image>
+	<unit>FIT3080 Intelligent Systems</unit>
+</person>
+
+<person>
+	<title>Professor</title>
+	<personalname>Ann</personalname>
+	<familyname>Nicholson</familyname>
+	<extension>x55777</extension>
+	<image>http://monash.edu/research/explore/files/715951/profile%20photo</image>
+	<unit>FIT2003 IT Professional Practice</unit>
+</person>
+</staffdir>
