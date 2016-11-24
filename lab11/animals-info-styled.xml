@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+
+<?xml-stylesheet type ="text/xsl" href="album-info.xsl"?>
+
+<album-info>
+  <title>Animals</title>
+  <artist>Pink Floyd</artist>
+  <cover-art url="http://upload.wikimedia.org/wikipedia/en/7/74/Pink_Floyd-Animals-Frontal.jpg" description="Inflatable pig over Battersea Power Station"/>
+  <release-year>1977</release-year>
+  <track-list>
+    <track>Pigs on the Wing (Part I)</track>
+    <track>Dogs</track>
+    <track>Pigs (Three Different Ones)</track>
+    <track>Sheep</track>
+    <track>Pigs on the Wing (Part II)</track>
+  </track-list>
+  <amazon-link>http://www.amazon.com/Animals-Pink-Floyd/dp/B004ZN9UZO/</amazon-link>
+</album-info>

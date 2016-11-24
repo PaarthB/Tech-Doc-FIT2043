@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+
+<?xml-stylesheet type ="text/xsl" href="album-info.xsl"?>
+
+<album-info>
+  <title>The Dark Side of the Moon</title>
+  <artist>Pink Floyd</artist>
+  <cover-art url="http://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png" description="White light split into the spectrum by a triangular prism"/>
+  <release-year>1973</release-year>
+    <!-- note: the release-month element is optional -->
+  <release-month>March</release-month>
+  <track-list>
+    <!-- note that the composer attribute is optional -->
+    <track composer="Mason">Speak to Me</track>
+    <track composer="Waters, Gilmour, Wright">Breathe</track>
+    <track composer="Gilmour, Waters">On the Run</track>
+    <track composer="Mason, Waters, Wright, Gilmour">Time</track>
+    <track composer="Wright, Clare Torry">The Great Gig in the Sky</track>
+    <track composer="Waters">Money</track>
+	<track composer="Waters, Wright">Us and Them</track>
+    <track composer="Gilmour, Mason, Wright">Any Colour You Like</track>
+    <track composer="Waters">Brain Damage</track>
+	<track composer="Waters">Eclipse</track>
+  </track-list>
+  <amazon-link>http://www.amazon.com/Dark-Side-Moon-Pink-Floyd/dp/B000002U82</amazon-link>
+</album-info>
